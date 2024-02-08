@@ -1,0 +1,21 @@
+p {
+    background-color: yellow
+  }
+  
+  #number2 {
+    font-size: 36px;
+    color: blue
+  }
+  
+  .number3 {
+    font-size: 24px
+  }
+  
+  .number4 {
+    font-size: 24px;
+  }
+  
+  #number4 {
+    font-weight: bold;
+    background-color: red;
+  }
